@@ -1,0 +1,9 @@
+oil-gas-db/
+│
+├── README.md
+├── schema/
+│   └── create_tables.sql
+├── data/
+│   └── sample_data.sql
+├── scripts/
+│   └── queries.sql
